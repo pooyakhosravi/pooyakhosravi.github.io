@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://pooyakhosravi.github.io//sitemap.xml
+Sitemap: https://pooyakhosravi.github.io/sitemap.xml
