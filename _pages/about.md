@@ -19,7 +19,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I currently an MD/PhD candidate at [University of California, Irvine](https://medschool.uci.edu/), in my second year of [Computer Science](https://www.ics.uci.edu/) PhD program advised by professor [Xiaohui Xie](https://www.ics.uci.edu/~xhx/). Combining my passion for medicine and technology, I aspire to utilize artificial intelligence (AI) and machine learning (ML) to transform healthcare and enhance patient outcomes. 
+I am currently an MD/PhD candidate at [University of California, Irvine](https://medschool.uci.edu/), in my second year of [Computer Science](https://www.ics.uci.edu/) PhD program advised by professor [Xiaohui Xie](https://www.ics.uci.edu/~xhx/). Combining my passion for medicine and technology, I aspire to utilize artificial intelligence (AI) and machine learning (ML) to transform healthcare and enhance patient outcomes. 
 
 Research Interests:
 - Computer vision and deep learning in medical image analysis
