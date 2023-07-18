@@ -26,6 +26,14 @@
               </td>
             </tr>
             {% endif %}
+            {% if content.image %}
+            <tr>
+              <td>
+                {% include figure.html path="assets/img/{{content.image}}" class="img-fluid rounded z-depth-1" %}
+              </td>
+            </tr>
+            {% endif %}
+
           </tbody>
         </table>
       </div>
