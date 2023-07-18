@@ -22,8 +22,8 @@
       "name": "InfiniGlobe",
       "position": "Software Engineer",
       "url": "https://infiniglobe.com/",
-      "startDate": "2019-09",
-      "endDate": "2021-03",
+      "startDate": "Sep 2019",
+      "endDate": "Mar 2021",
       "image": "IG_Logo.png",
       "summary": "",
       "highlights": [
@@ -36,8 +36,8 @@
       "name": "Boeing",
       "position": "Software Engineer Intern",
       "url": "https://www.boeing.com/",
-      "startDate": "2019-06",
-      "endDate": "2019-09",
+      "startDate": "Jun 2019",
+      "endDate": "Sep 2019",
       "image": "boeing_logo.png",
       "summary": "",
       "highlights": [
@@ -50,8 +50,8 @@
       "name": "InfiniGlobe",
       "position": "Developer",
       "url": "https://infiniglobe.com/",
-      "startDate": "2019-04",
-      "endDate": "2017-06",
+      "startDate": "Apr 2019",
+      "endDate": "Jun 2017",
       "image": "IG_Logo.png",
       "summary": "",
       "highlights": [
@@ -84,8 +84,8 @@
       "url": "https://ics.uci.edu/",
       "area": "Computer Science: Machine Learning",
       "studyType": "PhD",
-      "startDate": "2022-09",
-      "endDate": "2026-12",
+      "startDate": "Sep 2022",
+      "endDate": "Dec 2026",
       "image": "uci-seal-blue.png",
       "score": "",
       "courses": [
@@ -96,8 +96,8 @@
       "url": "https://medschool.uci.edu/",
       "area": "Medicine",
       "studyType": "MD/PhD",
-      "startDate": "2021-08",
-      "endDate": "2029-06",
+      "startDate": "Aug 2021",
+      "endDate": "Jun 2029",
       "image": "uci-seal-blue.png",
       "score": "",
       "courses": [
@@ -108,8 +108,8 @@
       "url": "https://medschool.uci.edu/",
       "area": "Computer Science: Intelligent Systems",
       "studyType": "BS",
-      "startDate": "2020-06",
-      "endDate": "2017-09",
+      "startDate": "Jun 2020",
+      "endDate": "Sep 2017",
       "image": "uci-seal-blue.png",
       "score": "",
       "courses": [
@@ -120,8 +120,8 @@
       "url": "https://www.ivc.edu/",
       "area": "",
       "studyType": "AA",
-      "startDate": "2017-08",
-      "endDate": "2015-06",
+      "startDate": "Aug 2017",
+      "endDate": "Jun 2015",
       "image": "ivc_seal.png",
       "score": "",
       "courses": [
@@ -131,19 +131,19 @@
   "awards": [
     {
       "title": "ICPC North American Championship Bronze Medal",
-      "date": "2023-05-30",
+      "date": "May 2023",
       "awarder": "ICPC North America Division",
       "summary": "Co-coach for team UCI Map."
     },
     {
       "title": "IEEEXtreme 13.0 Programming Competition 7th place in US",
-      "date": "2019-09-19",
+      "date": "Sep 2019",
       "awarder": "IEEEXtreme",
       "summary": "Ranked 99th worldwide and 7th in the US - team zotReduce"
     },
     {
       "title": "Regents' Scholar at UC Irvine",
-      "date": "2017-09-19",
+      "date": "Sep 2017",
       "awarder": "UC Irvine",
       "summary": "'Most distinguished merit scholarship awarded by the University of California.'"
     }
