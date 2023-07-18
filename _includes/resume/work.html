@@ -27,9 +27,11 @@
             </tr>
             {% endif %}
             {% if content.image %}
+            {%- assign image_path = content.image | prepend: 'assets/img/' -%}
+            {%- assign profile_image_class = "img-fluid z-depth-1 rounded" -%}
             <tr>
               <td>
-                {% include figure.html path="assets/img/{{content.image}}" class="img-fluid rounded z-depth-1" %}
+                {% include figure.html path=image_path class=profile_image_class %}
               </td>
             </tr>
             {% endif %}
