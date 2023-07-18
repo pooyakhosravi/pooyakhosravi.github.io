@@ -16,7 +16,7 @@
           <tbody>
             <tr>
               <td>
-                <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle" style="min-width: 75px;">{{date}}</span>
+                <span class="badge font-weight-bold danger-color-dark align-middle" style="min-width: 75px;">{{date}}</span>
               </td>
             </tr>
             {% if content.location %}
@@ -26,7 +26,7 @@
               </td>
             </tr>
             {% endif %}
-            
+
             {% if content.image %}
             {%- assign image_path = content.image | prepend: 'assets/img/' -%}
             {%- assign profile_image_class = "img-fluid z-depth-1 rounded" -%}
