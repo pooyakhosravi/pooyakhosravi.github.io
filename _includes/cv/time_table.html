@@ -18,6 +18,17 @@
                     </td>
                   </tr>
                   {% endif %}
+                  {% if content.image %}
+                  <tr>
+                    <td>
+                      {%- include figure.html
+                        path=content.image
+                        alt="" -%}
+                    </td>
+                  </tr>
+                  {% endif %}
+
+
                 </tbody>
               </table>
               
