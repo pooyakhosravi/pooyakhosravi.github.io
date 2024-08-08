@@ -222,3 +222,19 @@ Papillomacular (92.1%) and papillofoveal (37.9%) RNFL bundle defects were preval
 Conclusions
 Papillomacular and papillofoveal RNFL bundle defects are present in a considerable proportion of eyes with glaucoma. When detected, they significantly increase the likelihood of abnormality in the corresponding central VF test locations assessed by the 10-2 test.}
 }
+
+
+@article{SUN2024103249,
+title = {Medical image registration via neural fields},
+journal = {Medical Image Analysis},
+volume = {97},
+pages = {103249},
+year = {2024},
+abr = {MIA},
+issn = {1361-8415},
+doi = {https://doi.org/10.1016/j.media.2024.103249},
+url = {https://www.sciencedirect.com/science/article/pii/S1361841524001749},
+author = {Shanlin Sun and Kun Han and Chenyu You and Hao Tang and Deying Kong and Junayed Naushad and Xiangyi Yan and Haoyu Ma and Pooya Khosravi and James S. Duncan and Xiaohui Xie},
+keywords = {Optimization, Neural fields, Deformable image registration, Neural ODEs, Hybrid Coordinate samplers},
+abstract = {Image registration is an essential step in many medical image analysis tasks. Traditional methods for image registration are primarily optimization-driven, finding the optimal deformations that maximize the similarity between two images. Recent learning-based methods, trained to directly predict transformations between two images, run much faster, but suffer from performance deficiencies due to domain shift. Here we present a new neural network based image registration framework, called NIR (Neural Image Registration), which is based on optimization but utilizes deep neural networks to model deformations between image pairs. NIR represents the transformation between two images with a continuous function implemented via neural fields, receiving a 3D coordinate as input and outputting the corresponding deformation vector. NIR provides two ways of generating deformation field: directly output a displacement vector field for general deformable registration, or output a velocity vector field and integrate the velocity field to derive the deformation field for diffeomorphic image registration. The optimal registration is discovered by updating the parameters of the neural field via stochastic mini-batch gradient descent. We describe several design choices that facilitate model optimization, including coordinate encoding, sinusoidal activation, coordinate sampling, and intensity sampling. NIR is evaluated on two 3D MR brain scan datasets, demonstrating highly competitive performance in terms of both registration accuracy and regularity. Compared to traditional optimization-based methods, our approach achieves better results in shorter computation times. In addition, our methods exhibit performance on a cross-dataset registration task, compared to the pre-trained learning-based methods.}
+}
