@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   address: >
         UCI - Computer Science
-        6210 Donald Bren Hall
+        4059 Donald Bren Hall
         Irvine, CA 92697-3425
 
 news: false  # includes a list of news items
