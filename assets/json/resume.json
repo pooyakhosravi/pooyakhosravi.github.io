@@ -19,6 +19,28 @@
   },
   "work": [
     {
+      "name": "Meta",
+      "position": "Software Engineering Intern",
+      "url": "https://www.meta.com/",
+      "startDate": "2025 Jun",
+      "endDate": "2025 Sep",
+      "image": "meta_logo.png",
+      "summary": "",
+      "highlights": [
+      ]
+    },
+    {
+      "name": "Microsoft",
+      "position": "Software Engineering Intern",
+      "url": "https://www.microsoft.com/en-us/",
+      "startDate": "2024 Jun",
+      "endDate": "2024 Sep",
+      "image": "microsoft_logo.png",
+      "summary": "",
+      "highlights": [
+      ]
+    },
+    {
       "name": "InfiniGlobe",
       "position": "Software Engineer",
       "url": "https://infiniglobe.com/",
@@ -27,9 +49,7 @@
       "image": "IG_Logo.png",
       "summary": "",
       "highlights": [
-        "Architected and developed machine learning services to automate the data ingestion process and expedite model training.",
-        "Leveraged cloud-based technologies to efficiently handle large volumes of data and facilitate scalable model training and deployment.",
-        "Implemented robust deployment services to seamlessly integrate trained models into the production environment."
+        "Architected and developed machine learning services to automate the data ingestion process and expedite model training."
       ]
     },
     {
@@ -41,9 +61,7 @@
       "image": "boeing_logo.png",
       "summary": "",
       "highlights": [
-        "Developed a comprehensive desktop application to automate document generation, accelerating spacecraft database deliveries and enhancing overall productivity.",
-        "Conceptualized and implemented a streamlined process for generating data verification SQL queries for new space programs.",
-        "Enhanced software development methodologies by integrating continuous integration via Jenkins, improving code quality and project velocity."
+        "Developed a comprehensive desktop application to automate document generation, accelerating spacecraft database deliveries and enhancing overall productivity."
       ]
     },
     {
@@ -55,10 +73,7 @@
       "image": "IG_Logo.png",
       "summary": "",
       "highlights": [
-        "Spearheaded the development of RESTful APIs and microservices using NodeJS, PHP, and Java, enabling seamless integration of back-end services and enhancing system interoperability.",
-        "Orchestrated the design and implementation of a cutting-edge software architecture for automatic client data migration, leveraging batch and real-time processing techniques to reduce migration time from 3 days to 50 minutes.",
-        "Built sophisticated analytic services and dashboards that extracted key performance indicators (KPIs), providing actionable recommendations and contributing to improved risk management of legal vendors and outside counsel.",
-        "Enabled real-time monitoring of key business metrics through custom-built dashboards, fostering a culture of transparency and continuous improvement."
+        "Built analytic services and dashboards that extracted key performance indicators (KPIs), providing actionable recommendations and contributing to improved risk management of legal vendors and outside counsel."
       ]
     },
     {
@@ -70,9 +85,7 @@
       "image": "ivc_logo.jpeg",
       "summary": "",
       "highlights": [
-        "Tutored lower division mathematics, enhancing student understanding in Calculus and Algebra.",
-        "Conducted review workshops in Calculus and Algebra to reinforce course material.",
-        "Adapted tutoring methods to accommodate individual student learning styles."
+        "Tutored lower division mathematics, from algebra to linear algebra."
       ]
     }
   ],
